@@ -1,0 +1,12 @@
+---
+:id: 29439190
+:submitters:
+- :name: John Zhen
+  :email: john.zhen24@myhunter.cuny.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-02-13 21:23:29.930086000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-02-13 13:23:29.930086000 Z
+:status: processed
+:score: 100.0
